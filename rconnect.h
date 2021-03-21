@@ -1,0 +1,12 @@
+#define WORK_DIR ".festival"
+#define LOG_FILE "festival.log"
+#define LOCK_FILE "festival.pid"
+#define NODE0 "node0"
+#define NODE_DIR "node"
+#define DATA_DIR "data"
+#define ALL_LOG_DIR "log"
+#define DEPLOY_FILE "deploy.ini"
+#define CONFIG_FILE "config.ini"
+#define VERSION_MAJOR 0
+#define VERSION_MINOR 1
+#define VERSION_PATH 1

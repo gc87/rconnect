@@ -1,0 +1,6 @@
+[submodule "external_libs/c-algorithms"]
+	path = external_libs/c-algorithms
+	url = git@github.com:spime-io/c-algorithms.git
+[submodule "external_libs/iniparser"]
+	path = external_libs/iniparser
+	url = git@github.com:spime-io/iniparser.git
